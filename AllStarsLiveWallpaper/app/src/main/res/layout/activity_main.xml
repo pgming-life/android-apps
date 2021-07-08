@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Launcher" >
+    
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        
+        <LinearLayout 
+        	android:layout_width="match_parent"
+        	android:layout_height="match_parent"
+        	android:layout_marginTop="3dp"
+        	android:layout_marginBottom="2dp"
+        	android:layout_marginLeft="20dp"
+        	android:layout_marginRight="20dp"
+        	android:gravity="center"
+        	android:orientation="vertical" >
+        	
+            <TextView 
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/small_icon"
+                android:text="@string/opening_wallpaper"
+                android:fontFamily="sans-serif-condensed"
+                android:textSize="30sp" />
+            
+            <View 
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#ff808080" />
+       
+            
+        	<Button 
+            	android:id="@+id/button_open"
+            	style="@style/origin_button"
+            	android:layout_width="match_parent"
+            	android:layout_height="wrap_content"
+            	android:text="@string/opening_open"
+            	android:fontFamily="sans-serif-condensed" />
+        	
+        	<Button
+        	    android:id="@+id/button_settings"
+        	    style="@style/origin_button"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:text="@string/opening_settings"
+        	    android:fontFamily="sans-serif-condensed" />
+        	
+        	<Button
+        	    android:id="@+id/button_valuation"
+        	    style="@style/origin_button"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:text="@string/opening_valuation"
+        	    android:fontFamily="sans-serif-condensed" />
+        	
+        	<TextView 
+            	android:layout_width="match_parent"
+            	android:layout_height="wrap_content"
+            	android:drawableLeft="@drawable/small_otogi"
+            	android:text="@string/opening_otogi"
+            	android:fontFamily="sans-serif-condensed"
+            	android:textSize="30sp" />
+        	
+        	<View 
+            	android:layout_width="match_parent"
+            	android:layout_height="1dp"
+            	android:background="#ff808080" />
+        	
+        	<Button 
+            	android:id="@+id/button_apps"
+            	style="@style/origin_button"
+            	android:layout_width="match_parent"
+            	android:layout_height="wrap_content"
+            	android:text="@string/opening_apps"
+            	android:fontFamily="sans-serif-condensed"
+            	android:autoLink="web" />
+        	
+        	<Button 
+            	android:id="@+id/button_facebook"
+            	style="@style/origin_button"
+            	android:layout_width="match_parent"
+            	android:layout_height="wrap_content"
+            	android:text="@string/opening_facebook"
+            	android:fontFamily="sans-serif-condensed"
+            	android:autoLink="web" />
+        	
+        	<Button 
+            	android:id="@+id/button_twitter"
+            	style="@style/origin_button"
+            	android:layout_width="match_parent"
+            	android:layout_height="wrap_content"
+            	android:text="@string/opening_twitter"
+            	android:fontFamily="sans-serif-condensed"
+            	android:autoLink="web" />
+        	
+        	<Button 
+            	android:id="@+id/button_email"
+            	style="@style/origin_button"
+            	android:layout_width="match_parent"
+            	android:layout_height="wrap_content"
+            	android:text="@string/opening_email"
+            	android:fontFamily="sans-serif-condensed"
+            	android:autoLink="email" />
+        	
+    	</LinearLayout>
+    
+    </ScrollView>
+    
+</RelativeLayout>

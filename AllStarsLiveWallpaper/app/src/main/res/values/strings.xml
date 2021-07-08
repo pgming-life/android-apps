@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    
+    <!-- General -->
+    <skip />
+    
+    
+    <!-- Application Name -->
+    <string name="app_name">All Stars Live Wallpaper</string>
+    <string name="description"> </string>
+    
+    <!-- Activity Name -->
+    <string name="opening_wallpaper"> WALLPAPER</string>
+    <string name="opening_open">OPEN</string>
+    <string name="opening_settings">SETTINGS</string>
+    <string name="opening_valuation">VALUATION</string>
+    
+    <string name="opening_otogi"> OTOGI</string>
+    <string name="opening_apps">APPS</string>
+    <string name="opening_facebook">FACEBOOK</string>
+    <string name="opening_twitter">TWITTER</string>
+    <string name="opening_email">E-MAIL</string>
+    
+    <!-- PrefSettings Name -->
+    <string name="otogi">OTOGI</string>
+    <string name="otogi_link"> OTOGI ＞ LINK</string>
+    	<string name="apps_link"> APPS</string>
+    	<string name="facebook_link"> FACEBOOK</string>
+    	<string name="twitter_link"> TWITTER</string>
+    	<string name="email_link"> E-MAIL</string>
+    
+    <string name="main_wallpaper">WALLPAPER</string>
+    <string name="set">Set</string>
+    
+    <string name="planet">PLANET</string>
+    <string name="planets">Planets</string>
+    <string name="set_the_favorite_planet">Set the favorite planet</string>
+    <string name="planet_name">Planets</string>
+    
+    <string name="appearance">APPEARANCE</string>
+    <string name="universes">Universes</string>
+    <string name="set_the_favorite_universe">Set the favorite universe</string>
+    <string name="universe_name">Universe Name</string>
+    <string name="star_count">Star Count</string>
+    <string name="set_the_number_of_the_stars">Set the number of the stars</string>
+    
+    <string name="speed">SPEED</string>
+    <string name="planet_speed">Planet Speed</string>
+    <string name="set_the_speed_of_rotating_the_planet">Set the speed of rotating the planet</string>
+    <string name="universe_speed">Universe Speed</string>
+    <string name="set_the_speed_of_the_universe">Set the speed of the universe</string>
+    <string name="constellation_speed">Constellation Speed</string>
+    <string name="set_the_speed_of_the_constellation">Set the speed of the constellation</string>
+    
+    <string name="sense">SENSE</string>
+    <string name="planet_sense">Friction Sensitivity</string>
+    <string name="set_the_touch_sense_of_the_rotating_planet">Set the friction sensitivity of the rotating planet</string>
+    
+    <string name="other">OTHER</string>
+    <string name="valuation_link">Valuation</string>
+    <string name="please_rate_if_good">Please rate if good</string>
+    
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    
+    <!-- General -->
+    <skip />
+    
+    
+    <!-- Application Name -->
+    <string name="app_name">올 스타즈 라이브 배경 화면</string>
+    <string name="description"> </string>
+    
+    <!-- Activity Name -->
+    <string name="opening_wallpaper"> WALLPAPER</string>
+    <string name="opening_open">열</string>
+    <string name="opening_settings">설정</string>
+    <string name="opening_valuation">평가</string>
+    
+    <string name="opening_otogi"> OTOGI</string>
+    <string name="opening_apps">APPS</string>
+    <string name="opening_facebook">FACEBOOK</string>
+    <string name="opening_twitter">TWITTER</string>
+    <string name="opening_email">E-MAIL</string>
+    
+    <!-- Preference Name -->
+    <string name="otogi">OTOGI</string>
+    <string name="otogi_link"> OTOGI ＞ LINK</string>
+    	<string name="apps_link"> APPS</string>
+    	<string name="facebook_link"> FACEBOOK</string>
+    	<string name="twitter_link"> TWITTER</string>
+    	<string name="email_link"> E-MAIL</string>
+    
+    <string name="main_wallpaper">배경 화면</string>
+    <string name="set">세트</string>
+    
+    <string name="planet">행성</string>
+    <string name="planets">행성</string>
+    <string name="set_the_favorite_planet">좋아하는 행성을 선택</string>
+    <string name="planet_name">행성</string>
+    
+    <string name="appearance">외관</string>
+    <string name="universes">우주</string>
+    <string name="set_the_favorite_universe">좋아하는 우주를 선택</string>
+    <string name="universe_name">우주</string>
+    <string name="star_count">별의 개수</string>
+    <string name="set_the_number_of_the_stars">등급을 설정</string>
+    
+    <string name="speed">속도</string>
+    <string name="planet_speed">자전 속도</string>
+    <string name="set_the_speed_of_rotating_the_planet">행성의 자전 속도를 설정</string>
+    <string name="universe_speed">배경의 속도</string>
+    <string name="set_the_speed_of_the_universe">배경의 속도를 설정</string>
+    <string name="constellation_speed">별의 속도</string>
+    <string name="set_the_speed_of_the_constellation">별의 속도를 설정</string>
+    
+    <string name="sense">감도</string>
+    <string name="planet_sense">마찰 감도</string>
+    <string name="set_the_touch_sense_of_the_rotating_planet">자전하는 행성의 터치 조작의 마찰 감도를 설정</string>
+    
+    <string name="other">기타</string>
+    <string name="valuation_link">평가</string>
+    <string name="please_rate_if_good">괜찮으 시다면 평가하십시오.</string>
+    
+</resources>

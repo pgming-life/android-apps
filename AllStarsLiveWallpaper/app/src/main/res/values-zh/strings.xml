@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    
+    <!-- General -->
+    <skip />
+    
+    
+    <!-- Application Name -->
+    <string name="app_name">全明星動態壁紙</string>
+    <string name="description"> </string>
+    
+    <!-- Activity Name -->
+    <string name="opening_wallpaper"> WALLPAPER</string>
+    <string name="opening_open">開放</string>
+    <string name="opening_settings">環境</string>
+    <string name="opening_valuation">評估</string>
+    
+    <string name="opening_otogi"> OTOGI</string>
+    <string name="opening_apps">APPS</string>
+    <string name="opening_facebook">FACEBOOK</string>
+    <string name="opening_twitter">TWITTER</string>
+    <string name="opening_email">E-MAIL</string>
+    
+    <!-- Preference Name -->
+    <string name="otogi">OTOGI</string>
+    <string name="otogi_link"> OTOGI ＞ LINK</string>
+    	<string name="apps_link"> APPS</string>
+    	<string name="facebook_link"> FACEBOOK</string>
+    	<string name="twitter_link"> TWITTER</string>
+    	<string name="email_link"> E-MAIL</string>
+    
+    <string name="main_wallpaper">壁紙</string>
+    <string name="set">設置</string>
+    
+    <string name="planet">行星</string>
+    <string name="planets">行星</string>
+    <string name="set_the_favorite_planet">選擇你最喜歡的星球</string>
+    <string name="planet_name">行星</string>
+    
+    <string name="appearance">出現</string>
+    <string name="universes">宇宙</string>
+    <string name="set_the_favorite_universe">選擇你最喜歡的宇宙</string>
+    <string name="universe_name">宇宙</string>
+    <string name="star_count">明星</string>
+    <string name="set_the_number_of_the_stars">集星數</string>
+    
+    <string name="speed">速度</string>
+    <string name="planet_speed">旋轉速度</string>
+    <string name="set_the_speed_of_rotating_the_planet">設置的行星的旋轉速度</string>
+    <string name="universe_speed">背景速度</string>
+    <string name="set_the_speed_of_the_universe">設置背景的速度</string>
+    <string name="constellation_speed">利率明星</string>
+    <string name="set_the_speed_of_the_constellation">設定速度之星</string>
+    
+    <string name="sense">靈敏度</string>
+    <string name="planet_sense">摩擦感</string>
+    <string name="set_the_touch_sense_of_the_rotating_planet">設置旋轉地球的觸摸操作的摩擦感</string>
+    
+    <string name="other">其他</string>
+    <string name="valuation_link">評估</string>
+    <string name="please_rate_if_good">請率，如果好。</string>
+    
+</resources>

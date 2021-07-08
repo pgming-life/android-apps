@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Application name -->
+    <string name="app_name">水晶免費動態壁紙 （精簡版）</string>
+    <string name="description"> </string>
+    
+    <!-- Activity Name -->
+    <string name="opening_wallpaper"> WALLPAPER</string>
+    <string name="opening_open">開放</string>
+    <string name="opening_settings">環境</string>
+    <string name="opening_valuation">評估</string>
+    
+    <string name="opening_otogi"> OTOGI</string>
+    <string name="opening_apps">APPS</string>
+    <string name="opening_facebook">FACEBOOK</string>
+    <string name="opening_twitter">TWITTER</string>
+    <string name="opening_email">E-MAIL</string>
+    
+    <!-- Preference Name -->
+    <string name="otogi">OTOGI</string>
+    <string name="otogi_link"> OTOGI ＞ LINK</string>
+    	<string name="apps_link"> APPS</string>
+    	<string name="facebook_link"> FACEBOOK</string>
+    	<string name="twitter_link"> TWITTER</string>
+    	<string name="email_link"> E-MAIL</string>
+    
+    <string name="main_wallpaper">壁紙</string>
+    <string name="set">設置</string>
+    
+    <string name="other">其他</string>
+    <string name="valuation_link">評估</string>
+    <string name="please_rate_if_good">請率，如果好。</string>
+    
+</resources>

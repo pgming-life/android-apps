@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="planets">
+        <item>태양</item>
+        <item>수성</item>
+        <item>금성</item>
+        <item>지구</item>
+        <item>달</item>
+        <item>화성</item>
+        <item>목성</item>
+        <item>토성</item>
+        <item>천왕성</item>
+        <item>해왕성</item>
+        <item>명왕성</item>
+    </string-array>
+    
+    <string-array name="universe_view">
+        <item>은하수</item>
+        <item>어둠</item>
+    </string-array>
+    
+    <string-array name="values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <!-- Application Name -->
+    <string name="app_name">Earth Live Wallpaper Free (Lite)</string>
+    <string name="description"> </string>
+    
+    <!-- Activity Name -->
+    <string name="opening_wallpaper"> WALLPAPER</string>
+    <string name="opening_open">OPEN</string>
+    <string name="opening_settings">SETTINGS</string>
+    <string name="opening_valuation">VALUATION</string>
+    
+    <string name="opening_otogi"> OTOGI</string>
+    <string name="opening_apps">APPS</string>
+    <string name="opening_facebook">FACEBOOK</string>
+    <string name="opening_twitter">TWITTER</string>
+    <string name="opening_email">E-MAIL</string>
+    
+    <!-- Preference Name -->
+    <string name="otogi">OTOGI</string>
+    <string name="otogi_link"> OTOGI ＞ LINK</string>
+    	<string name="apps_link"> APPS</string>
+    	<string name="facebook_link"> FACEBOOK</string>
+    	<string name="twitter_link"> TWITTER</string>
+    	<string name="email_link"> E-MAIL</string>
+    
+    <string name="main_wallpaper">WALLPAPER</string>
+    <string name="set">Set</string>
+    
+    <string name="other">OTHER</string>
+    <string name="valuation_link">Valuation</string>
+    <string name="please_rate_if_good">Please rate if good</string>
+    
+</resources>
